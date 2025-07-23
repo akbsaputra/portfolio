@@ -1,0 +1,6 @@
+remote_theme: pages-themes/cayman@v0.2.0   # change to minimal or slate if preferred
+plugins:
+  - jekyll-remote-theme
+title: "Akbar Saputra · Data Visualisation Portfolio"
+description: "Data storytelling, dashboard design, and interactive visualisations"
+logo: /assets/profile.jpg    # optional small avatar in the header
