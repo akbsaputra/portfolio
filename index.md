@@ -1,0 +1,1 @@
+I build insight‑driven, interactive visuals that make complex public‑policy data clear for non‑technical audiences. My work spans large‑scale computing pipelines, statistical modelling, and front‑end design—recently for global inequality metrics, sustainable energy, and social‑justice reporting.
